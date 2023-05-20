@@ -1,7 +1,5 @@
 # Caesar Cipher
 
-## Description
-
 This is a JavaScript implementation of the Caesar cipher, a substitution cipher that shifts the letters of the alphabet by a certain number of positions. This implementation supports the Georgian, English, and Russian languages.
 
 ## Limitations
